@@ -1,7 +1,7 @@
 # WATERFLOW CLOUD
 
 <div align="center">
-<img height="100px" width="100px" src="logo.svg"/>
+<img height="100px" width="100px" src="./logo.svg"/>
 </div>
 
 ## 👋 Hi there,
