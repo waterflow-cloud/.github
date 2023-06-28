@@ -1,9 +1,5 @@
 # WATERFLOW CLOUD
 
-<div align="center">
-<img height="100px" width="100px" src="./logo.svg"/>
-</div>
-
 ## 👋 Hi there,
 
 This is the Waterflow Cloud Team, which focus on basical equipment for Information Technology and computer architectures.  \
