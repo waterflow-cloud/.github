@@ -2,7 +2,6 @@
 
 <div align="center">
 <img height="120px" width="120px" src="https://github.com/waterflow-cloud.png"/>
-<p> The Lightweight Web equipment for media-service for zzkpnews </p>
 </div>
 
 ## 👋 Hi there,
